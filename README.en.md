@@ -43,3 +43,7 @@ Python, ROS (through the platform bridge), lidar, multi-drone control.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The code was written in June 2026 and published on GitHub in November 2026. Commit dates follow the dates of the original files; the README was added at publication.</sub>
